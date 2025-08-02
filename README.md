@@ -40,6 +40,6 @@ This project is for academic and learning purposes.
 
 ## Author
 
-Dhruti Dobariya,
-M.E. Computer Science,
-Bits Pilani, Hyderabad Campus
+- Dhruti Dobariya,
+- M.E. Computer Science,
+- Bits Pilani, Hyderabad Campus
